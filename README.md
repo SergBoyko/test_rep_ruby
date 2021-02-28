@@ -1,2 +1,2 @@
-# testrep
-New repository for testing github
+
+New repository for testing github and Ruby
